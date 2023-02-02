@@ -1,6 +1,6 @@
 # Nome do meu projeto
 
-Rápida descrição do objetivo de fazer esse projeto
+*Projeto desenvolvido durante o curso pela plataforma Alura sobre Mobile-First*
 
 | :placard: Vitrine.Dev |  https://cursos.alura.com.br/vitrinedev/gusta-miith   | 
 | -------------  | --- |
