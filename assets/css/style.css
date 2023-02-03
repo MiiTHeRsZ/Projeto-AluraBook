@@ -1,0 +1,19 @@
+@import url("./header.css");
+@import url("./banner.css");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+
+:root {
+    --cor-padrao: #FFF;
+    --cor-primaria: #EBECEE;
+    --cor-secundaria: #EB9B00;
+    --cor-tercearia: #002F52;
+    --cor-destaque: linear-gradient(97deg, var(--cor-tercearia) 35%, #326589 165%);
+    --font-principal: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: var(--cor-primaria);
+    font-family: var(--font-principal);
+    font-size: 16px;
+    font-weight: 400;
+}
