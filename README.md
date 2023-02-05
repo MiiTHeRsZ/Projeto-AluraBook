@@ -6,7 +6,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **AluraBook**
 | :label: Tecnologias | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=30 height=30 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=30 height=30 />
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://miithersz.github.io/Projeto-AluraBook/
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
