@@ -5,7 +5,7 @@
 }
 
 .topicos__titulo {
-    color: var(--cor-padrao);
+    color: var(--cor-padrao-branco);
     font-weight: 300;
     margin-bottom: 1em;
     text-transform: uppercase;
@@ -24,9 +24,19 @@
 .topicos__link {
     background-color: var(--cor-secundaria);
     padding: 1em;
-    color: var(--cor-padrao);
+    color: var(--cor-padrao-branco);
     font-weight: 700;
     text-decoration: none;
     font-size: 14px;
     font-weight: 700;
+}
+
+@media screen and (min-width: 1024px) {
+    .topicos__titulo {
+        font-size: 24px;
+    }
+
+    .topicos__link {
+        font-size: 24px;
+    }
 }

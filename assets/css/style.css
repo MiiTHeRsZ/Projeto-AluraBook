@@ -1,18 +1,21 @@
-@import url("./header.css");
+@import url("./cabecalho.css");
 @import url("./banner.css");
 @import url("./carrossel.css");
 @import url("./topicos.css");
 @import url("./contato.css");
 @import url("./rodape.css");
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&family=Poppins:wght@300;400;500;700&display=swap');
 
 :root {
-    --cor-padrao: #FFF;
+    --cor-padrao-branco: #FFF;
+    --cor-padrao-preto: #000;
+    --cor-padrao-cinza: #474646;
     --cor-primaria: #EBECEE;
     --cor-secundaria: #EB9B00;
     --cor-tercearia: #002F52;
     --cor-destaque: linear-gradient(97deg, var(--cor-tercearia) 35%, #326589 165%);
     --font-principal: 'Poppins', sans-serif;
+    --font-secundaria: 'Josefin Sans', sans-serif;
 }
 
 body {
