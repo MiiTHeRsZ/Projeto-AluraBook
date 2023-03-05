@@ -5,7 +5,7 @@
 | :placard: Vitrine.Dev |  [Gustavo Leme](https://cursos.alura.com.br/vitrinedev/gusta-miith)  | 
 | -------------  | --- |
 | :sparkles: Nome        | **AluraBook**
-| :label: Tecnologias | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=30 height=30 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=30 height=30 />
+| :label: Tecnologias | HTML5 e CSS3
 | :rocket: URL         | https://miithersz.github.io/Projeto-AluraBook/
 | :fire: Desafio     | [Figma](https://www.figma.com/file/sSMbIqKaGBd66Y8roxTk2p/AluraBooks?t=y8vBv4JdOkDi72EF-0)
 
